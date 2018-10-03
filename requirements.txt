@@ -1,0 +1,4 @@
+requests >= 2.19.1
+pyrainbowterm >= 1.0
+validators >= 0.12.2
+dropbox >= 9.0.0
